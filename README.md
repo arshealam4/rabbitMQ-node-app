@@ -36,26 +36,26 @@
 
 * git clone https://github.com/arshealam4/rabbitMQ-node-app.git
 
-#### start producer
+#### Start producer
 
 * cd rabbitMQ-node-app/producer
 * npm install
-* npm start
+* npm run dev
 
-#### start consumer-1
+#### Start consumer-1
 
 * cd rabbitMQ-node-app/consumer-1
 * npm install
 * npm start
 
-#### start consumer-2
+#### Start consumer-2
 
 * cd rabbitMQ-node-app/consumer-2
 * npm install
 * npm start
 
 
-### test
+### Test
 
 * hit the API and check app.
 
