@@ -57,7 +57,6 @@
 
 ### Test
 
-* hit the API and check app.
+* open you terminal and wtire below command:
 
-method post 
-url: http://localhost:5500/api/v1/users/msg
+curl -X POST http://localhost:5500/api/v1/users/msg
