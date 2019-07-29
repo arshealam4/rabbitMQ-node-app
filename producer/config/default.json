@@ -1,0 +1,4 @@
+{
+  "rabbitMQCS": "amqp://vjtotybd:bKUP7Yp-c9Hk2NiaiUAQvkMmAudzpu3-@chimpanzee.rmq.cloudamqp.com/vjtotybd",
+  "queueName": "user-messages"
+}
